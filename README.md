@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andi
 - 👀 I’m interested in CI / CD solutions
-- 📫 How to reach me: schwarzkopf.and@gmail.com
+- 📫 How to reach me: and.ries@icloud.com
 
 <!---
 AnSchwarzkopf/AnSchwarzkopf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
